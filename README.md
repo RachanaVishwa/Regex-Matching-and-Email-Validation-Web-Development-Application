@@ -34,6 +34,8 @@ Please feel free to try out my WebApp deployed on AWS - [http://54.91.97.144:500
 
 <img width="399" alt="image" src="https://github.com/RachanaVishwa/Regex-Matching-and-Email-Validation-Web-Development-Application/assets/161026961/60db88a7-816e-4769-b59f-0cc948900398">
 
+<img width="484" alt="image" src="https://github.com/RachanaVishwa/Regex-Matching-and-Email-Validation-Web-Development-Application/assets/161026961/9bb30d2f-f606-4da2-a1c1-443d000ab22b">
+
 <img width="374" alt="image" src="https://github.com/RachanaVishwa/Regex-Matching-and-Email-Validation-Web-Development-Application/assets/161026961/30aa474d-05b7-43b4-bb27-bf2ac4c94937">
 
 
