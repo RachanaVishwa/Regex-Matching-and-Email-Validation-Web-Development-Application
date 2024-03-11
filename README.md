@@ -14,7 +14,7 @@ The task is -
 
 2. user can validate if a given email id is valid or not.
 
-Please feel free to try out my WebApp deployed on AWS - [http://54.91.97.144:5000/](Website)
+Please feel free to try out my WebApp deployed on AWS - [http://54.227.225.185:5000/](Website) - (Valid on 11,12 and 13th of March 2024)
 
 # Steps followed to create the application:
 
